@@ -6,5 +6,4 @@ public interface Iterator<T> {
     T current();
 
     void next();
-
 }
