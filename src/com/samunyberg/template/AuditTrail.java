@@ -1,0 +1,7 @@
+package com.samunyberg.template;
+
+public class AuditTrail {
+    public void record() {
+        System.out.println("Recording to audit trail...");
+    }
+}
